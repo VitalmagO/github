@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MyGitHub</string>
+    <string name="fullName">dtrupenn/Tetris</string>
+    <string name="htmlUrl">https://github.com/octocat</string>
+    <string name="title_search">Поиск репозиториев</string>
+    <string name="title_favorite">Избранное</string>
+    <string name="forks">Forks </string>
+    <string name="stars">Stars </string>
 </resources>
