@@ -6,4 +6,6 @@
     <string name="title_favorite">Избранное</string>
     <string name="forks">Forks </string>
     <string name="stars">Stars </string>
+    <string name="search_repo">Введите имя репозитория</string>
+    <string name="search">Поиск</string>
 </resources>
